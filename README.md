@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Guna42/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
