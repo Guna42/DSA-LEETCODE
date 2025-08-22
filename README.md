@@ -1,44 +1,210 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Guna42/DSA-LEETCODE/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) |
-| [0066-plus-one](https://github.com/Guna42/DSA-LEETCODE/tree/master/0066-plus-one) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Guna42/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0189-rotate-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/Guna42/DSA-LEETCODE/tree/master/0283-move-zeroes) |
-| [1603-running-sum-of-1d-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
-| [2058-concatenation-of-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
-## Math
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/Guna42/DSA-LEETCODE/tree/master/0066-plus-one) |
-| [0189-rotate-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Guna42/DSA-LEETCODE/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) |
-| [0189-rotate-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/Guna42/DSA-LEETCODE/tree/master/0283-move-zeroes) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Guna42/DSA-LEETCODE/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) |
-## Simulation
-|  |
-| ------- |
-| [2058-concatenation-of-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [1603-running-sum-of-1d-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Guna42/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
-<!---LeetCode Topics End-->
+# 🚀 DSA LeetCode Solutions
+
+<div align="center">
+  
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 💡 A comprehensive collection of LeetCode problems and solutions
+*Mastering Data Structures & Algorithms one problem at a time!*
+
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-8-brightgreen?style=flat-square)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-blue?style=flat-square)](#)
+[![LeetHub](https://img.shields.io/badge/Sync-LeetHub%20v2-orange?style=flat-square)](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+</div>
+
+---
+
+## 📊 Progress Overview
+
+<div align="center">
+
+| Difficulty | Solved | Total | Percentage |
+|------------|--------|-------|------------|
+| 🟢 Easy | 4 | ∞ | ![Progress](https://progress-bar.dev/0/?scale=100&title=Progress&width=120&color=00ff00&suffix=%) |
+| 🟡 Medium | 4 | ∞ | ![Progress](https://progress-bar.dev/0/?scale=100&title=Progress&width=120&color=ffff00&suffix=%) |
+| 🔴 Hard | 0 | ∞ | ![Progress](https://progress-bar.dev/0/?scale=100&title=Progress&width=120&color=ff0000&suffix=%) |
+
+</div>
+
+---
+
+## 🎯 Topic-wise Solutions
+
+### 📈 Array Problems
+> *Master the fundamentals of array manipulation and traversal*
+
+| # | Problem | Difficulty | Solution | Tags |
+|---|---------|------------|----------|------|
+| 15 | [3Sum](https://github.com/Guna42/DSA-LEETCODE/tree/master/0015-3sum) | 🟡 Medium | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0015-3sum) | `Array` `Two Pointers` `Sorting` |
+| 16 | [3Sum Closest](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) | 🟡 Medium | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0016-3sum-closest) | `Array` `Two Pointers` `Sorting` |
+| 66 | [Plus One](https://github.com/Guna42/DSA-LEETCODE/tree/master/0066-plus-one) | 🟢 Easy | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0066-plus-one) | `Array` `Math` |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/Guna42/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) | `Array` `Dynamic Programming` |
+| 189 | [Rotate Array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) | 🟡 Medium | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0189-rotate-array) | `Array` `Math` `Two Pointers` |
+| 283 | [Move Zeroes](https://github.com/Guna42/DSA-LEETCODE/tree/master/0283-move-zeroes) | 🟢 Easy | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/0283-move-zeroes) | `Array` `Two Pointers` |
+| 1603 | [Running Sum of 1d Array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) | 🟢 Easy | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) | `Array` `Prefix Sum` |
+| 2058 | [Concatenation of Array](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) | 🟢 Easy | [View](https://github.com/Guna42/DSA-LEETCODE/tree/master/2058-concatenation-of-array) | `Array` `Simulation` |
+
+---
+
+## 🏷️ Problems by Topic
+
+<details>
+<summary><b>🔢 Array (8 problems)</b></summary>
+
+- **Easy**: Plus One, Best Time to Buy and Sell Stock, Move Zeroes, Running Sum of 1d Array, Concatenation of Array
+- **Medium**: 3Sum, 3Sum Closest, Rotate Array
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>🎯 Two Pointers (4 problems)</b></summary>
+
+- **Easy**: Move Zeroes
+- **Medium**: 3Sum, 3Sum Closest, Rotate Array
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>🔢 Math (2 problems)</b></summary>
+
+- **Easy**: Plus One
+- **Medium**: Rotate Array
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>📊 Sorting (2 problems)</b></summary>
+
+- **Easy**: None yet
+- **Medium**: 3Sum, 3Sum Closest
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>💡 Dynamic Programming (1 problem)</b></summary>
+
+- **Easy**: Best Time to Buy and Sell Stock
+- **Medium**: None yet
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>➕ Prefix Sum (1 problem)</b></summary>
+
+- **Easy**: Running Sum of 1d Array
+- **Medium**: None yet
+- **Hard**: None yet
+
+</details>
+
+<details>
+<summary><b>🎮 Simulation (1 problem)</b></summary>
+
+- **Easy**: Concatenation of Array
+- **Medium**: None yet
+- **Hard**: None yet
+
+</details>
+
+---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+| Language | Problems Solved | Preference |
+|----------|-----------------|------------|
+| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Most | ⭐⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Some | ⭐⭐⭐⭐ |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Few | ⭐⭐⭐ |
+
+</div>
+
+---
+
+## 📈 Learning Journey
+
+```mermaid
+graph LR
+    A[🚀 Start Journey] --> B[🟢 Easy Problems]
+    B --> C[🔢 Arrays & Strings]
+    C --> D[🎯 Two Pointers]
+    D --> E[🟡 Medium Problems]
+    E --> F[📊 Advanced Topics]
+    F --> G[🔴 Hard Problems]
+    G --> H[🏆 Interview Ready]
+```
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 **Mastering Array Fundamentals**
+- 🎯 **Two Pointers Technique**
+- 📊 **Dynamic Programming Basics**
+- 🧮 **Mathematical Problem Solving**
+
+---
+
+## 📚 Resources & References
+
+<div align="center">
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| 📖 **LeetCode** | Primary practice platform | [Visit](https://leetcode.com/) |
+| 🚀 **LeetHub v2** | Auto-sync solutions to GitHub | [GitHub](https://github.com/arunbhardwaj/LeetHub-2.0) |
+| 📊 **Algorithm Patterns** | Common problem-solving patterns | [Patterns](https://github.com/SeanPrashad/leetcode-patterns) |
+| 💡 **Interview Tips** | Coding interview preparation | [Tips](https://github.com/jwasham/coding-interview-university) |
+
+</div>
+
+---
+
+## 🤝 Connect & Contribute
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guna42)
+
+**Found this helpful? Give it a ⭐!**
+
+</div>
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/Guna42/DSA-LEETCODE?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Guna42/DSA-LEETCODE?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Guna42/DSA-LEETCODE?style=social)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"The journey of a thousand algorithms begins with a single array."*
+
+**Keep coding, keep growing! 🚀**
+
+---
+
+*Last updated: August 22, 2025 | Auto-synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)*
+
+</div>
