@@ -214,13 +214,27 @@ graph LR
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
