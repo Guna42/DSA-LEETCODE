@@ -218,11 +218,13 @@ graph LR
 | [0027-remove-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +237,7 @@ graph LR
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -244,4 +247,9 @@ graph LR
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
