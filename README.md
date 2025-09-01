@@ -217,6 +217,7 @@ graph LR
 | [0011-container-with-most-water](https://github.com/Guna42/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Guna42/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -236,6 +237,7 @@ graph LR
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Guna42/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -275,4 +277,8 @@ graph LR
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Guna42/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Guna42/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
