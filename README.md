@@ -224,6 +224,7 @@ graph LR
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Guna42/DSA-LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -285,4 +286,8 @@ graph LR
 | ------- |
 | [0053-maximum-subarray](https://github.com/Guna42/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
