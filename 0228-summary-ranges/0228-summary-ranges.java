@@ -8,12 +8,12 @@ class Solution {
                 i++;
             }
 
-            int end =nums[i];
+            
 
-            if(start==end){
+            if(start==nums[i]){
                  res.add(String.valueOf(start));
             }else{
-                res.add(start + "->" + end);
+                res.add(start + "->" + nums[i]);
             }
             i++;
         }
