@@ -226,6 +226,7 @@ graph LR
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Guna42/DSA-LEETCODE/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
@@ -235,6 +236,7 @@ graph LR
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
@@ -251,6 +253,7 @@ graph LR
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
@@ -271,6 +274,7 @@ graph LR
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -280,6 +284,7 @@ graph LR
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Guna42/DSA-LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
 |  |
@@ -297,4 +302,8 @@ graph LR
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
