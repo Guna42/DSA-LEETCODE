@@ -231,6 +231,7 @@ graph LR
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Guna42/DSA-LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -243,6 +244,7 @@ graph LR
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +268,7 @@ graph LR
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +299,7 @@ graph LR
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Guna42/DSA-LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
 |  |
