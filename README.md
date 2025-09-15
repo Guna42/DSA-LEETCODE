@@ -241,6 +241,7 @@ graph LR
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Guna42/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -293,6 +294,7 @@ graph LR
 | ------- |
 | [0125-valid-palindrome](https://github.com/Guna42/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Guna42/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
