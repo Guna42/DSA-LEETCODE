@@ -292,6 +292,7 @@ graph LR
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Guna42/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Guna42/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Guna42/DSA-LEETCODE/tree/master/0290-word-pattern) |
@@ -327,4 +328,8 @@ graph LR
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Guna42/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
