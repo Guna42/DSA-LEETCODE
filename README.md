@@ -238,6 +238,7 @@ graph LR
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -294,6 +295,7 @@ graph LR
 | ------- |
 | [0020-valid-parentheses](https://github.com/Guna42/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Guna42/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Guna42/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0344-reverse-string) |
