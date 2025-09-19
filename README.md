@@ -300,6 +300,7 @@ graph LR
 | [0290-word-pattern](https://github.com/Guna42/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0742-to-lower-case](https://github.com/Guna42/DSA-LEETCODE/tree/master/0742-to-lower-case) |
 ## Math
 |  |
 | ------- |
