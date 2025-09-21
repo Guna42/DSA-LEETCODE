@@ -270,6 +270,7 @@ graph LR
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -301,6 +302,7 @@ graph LR
 | [0344-reverse-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0742-to-lower-case](https://github.com/Guna42/DSA-LEETCODE/tree/master/0742-to-lower-case) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Guna42/DSA-LEETCODE/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Math
 |  |
@@ -314,6 +316,7 @@ graph LR
 | ------- |
 | [0011-container-with-most-water](https://github.com/Guna42/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
