@@ -222,6 +222,7 @@ graph LR
 | [0118-pascals-triangle](https://github.com/Guna42/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -331,6 +332,7 @@ graph LR
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Guna42/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Counting Sort
