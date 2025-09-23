@@ -305,6 +305,7 @@ graph LR
 | [0742-to-lower-case](https://github.com/Guna42/DSA-LEETCODE/tree/master/0742-to-lower-case) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Guna42/DSA-LEETCODE/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1797-goal-parser-interpretation](https://github.com/Guna42/DSA-LEETCODE/tree/master/1797-goal-parser-interpretation) |
 ## Math
 |  |
 | ------- |
