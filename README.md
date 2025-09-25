@@ -310,6 +310,7 @@ graph LR
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Guna42/DSA-LEETCODE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Guna42/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
