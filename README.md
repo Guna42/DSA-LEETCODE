@@ -267,6 +267,7 @@ graph LR
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Guna42/DSA-LEETCODE/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -306,6 +307,7 @@ graph LR
 | [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Guna42/DSA-LEETCODE/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1797-goal-parser-interpretation](https://github.com/Guna42/DSA-LEETCODE/tree/master/1797-goal-parser-interpretation) |
+| [1970-sorting-the-sentence](https://github.com/Guna42/DSA-LEETCODE/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
