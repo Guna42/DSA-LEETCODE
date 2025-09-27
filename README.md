@@ -233,6 +233,7 @@ graph LR
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Guna42/DSA-LEETCODE/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/Guna42/DSA-LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Guna42/DSA-LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -306,6 +307,7 @@ graph LR
 | [0742-to-lower-case](https://github.com/Guna42/DSA-LEETCODE/tree/master/0742-to-lower-case) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Guna42/DSA-LEETCODE/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Guna42/DSA-LEETCODE/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Guna42/DSA-LEETCODE/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Guna42/DSA-LEETCODE/tree/master/1797-goal-parser-interpretation) |
 | [1970-sorting-the-sentence](https://github.com/Guna42/DSA-LEETCODE/tree/master/1970-sorting-the-sentence) |
 ## Math
