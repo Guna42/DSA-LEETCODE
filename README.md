@@ -317,6 +317,7 @@ graph LR
 | [0009-palindrome-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Guna42/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guna42/DSA-LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Guna42/DSA-LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Guna42/DSA-LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
