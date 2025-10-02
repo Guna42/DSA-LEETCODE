@@ -320,6 +320,7 @@ graph LR
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guna42/DSA-LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Guna42/DSA-LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Guna42/DSA-LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
+| [2491-smallest-even-multiple](https://github.com/Guna42/DSA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Guna42/DSA-LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
 |  |
@@ -353,4 +354,8 @@ graph LR
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Guna42/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Guna42/DSA-LEETCODE/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
