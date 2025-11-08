@@ -316,6 +316,7 @@ graph LR
 | [0007-reverse-integer](https://github.com/Guna42/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Guna42/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Guna42/DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Guna42/DSA-LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Guna42/DSA-LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -365,4 +366,8 @@ graph LR
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Guna42/DSA-LEETCODE/tree/master/0326-power-of-three) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Guna42/DSA-LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
