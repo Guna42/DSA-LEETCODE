@@ -229,6 +229,7 @@ graph LR
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Guna42/DSA-LEETCODE/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -261,6 +262,7 @@ graph LR
 | ------- |
 | [0053-maximum-subarray](https://github.com/Guna42/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +297,7 @@ graph LR
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Guna42/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Guna42/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Guna42/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -385,4 +388,5 @@ graph LR
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Guna42/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Guna42/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
