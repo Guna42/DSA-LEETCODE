@@ -221,6 +221,7 @@ graph LR
 | [0054-spiral-matrix](https://github.com/Guna42/DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Guna42/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Guna42/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Guna42/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Guna42/DSA-LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Guna42/DSA-LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -267,6 +268,7 @@ graph LR
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Guna42/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Guna42/DSA-LEETCODE/tree/master/0242-valid-anagram) |
@@ -287,6 +289,7 @@ graph LR
 | [0011-container-with-most-water](https://github.com/Guna42/DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Guna42/DSA-LEETCODE/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Guna42/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Guna42/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Guna42/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Guna42/DSA-LEETCODE/tree/master/0344-reverse-string) |
