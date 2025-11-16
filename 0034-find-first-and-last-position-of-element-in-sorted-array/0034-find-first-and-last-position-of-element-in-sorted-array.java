@@ -1,25 +1,47 @@
-import java.util.*;
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        Arrays.sort(nums);
-        
-        int c = 0;
-        int f = 0;
+     return new int[]{findFirst(nums , target), findLast(nums, target)};
+    }
 
-        for (int n = 0; n < nums.length; n++) {
-            if (nums[n] == target && c == 0) {
-                f = n;
+    public static int findFirst(int[] nums, int target){
+        int left = 0;
+        int right = nums.length-1;
+        int ans = -1;
+        while(left<=right){
+            int mid = left + (right-left)/2;
+
+            if(nums[mid] >= target){
+                right = mid-1;
             }
-            
-            if (nums[n] == target) {
-                c++;
+            else{
+                left = mid + 1;
+            }
+
+            if(nums[mid] == target){
+                ans = mid;
             }
         }
+        return ans;
+    }
 
-        if (c == 0) {
-            return new int[]{-1, -1};
+    public static int findLast(int[] nums, int target){
+        int left = 0;
+        int right = nums.length-1;
+        int ans = -1;
+        while(left <= right){
+            int mid = left + (right-left)/2;
+
+            if(nums[mid] <= target){
+                left = mid + 1;
+            }
+            else{
+                right = mid - 1;
+            }
+
+            if(nums[mid] == target){
+                ans = mid;
+            }
         }
-
-        return new int[]{f, f + c - 1};
+        return ans;
     }
 }
